@@ -1,0 +1,27 @@
+{
+  "name": "aesthetic",
+  "displayName": "Aesthetic",
+  "description": "",
+  "version": "1.0.0",
+  "license": "MIT",
+  "keywords": ["pink", "green", "light"],
+  "engines": {
+    "vscode": "^1.78.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Aesthetic",
+        "uiTheme": "vs",
+        "path": "./themes/aesthetic-color-theme.json"
+      }
+    ]
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/microsoft/vscode-wordcount.git"
+  }
+}
