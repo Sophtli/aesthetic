@@ -1,9 +1,28 @@
 {
-  "name": "aesthetic",
-  "displayName": "Aesthetic",
+  "name": "cute-aesthetic",
+  "displayName": "Cute Aesthetic",
   "description": "",
   "version": "1.0.0",
+  "homepage": "https://github.com/Sophtli/aesthetic",
+  "publisher": "sophtli",
+  "author": {
+    "name": "Sophtli",
+    "email": "mail@sopht.li",
+    "url": "https://sopht.li"
+  },
   "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Sophtli/aesthetic"
+  },
+  "bugs": {
+    "url": "https://github.com/Sophtli/aesthetic/issues"
+  },
+  "galleryBanner": {
+    "color": "#b55c80",
+    "theme": "light"
+  },
+  "markdown": "github",
   "keywords": ["pink", "green", "light"],
   "engines": {
     "vscode": "^1.78.0"
@@ -19,9 +38,5 @@
         "path": "./themes/aesthetic-color-theme.json"
       }
     ]
-  },
-  "repository": {
-    "type": "git",
-    "url": "https://github.com/microsoft/vscode-wordcount.git"
   }
 }
