@@ -2,7 +2,7 @@
   "name": "cute-aesthetic",
   "displayName": "Cute Aesthetic",
   "description": "",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "homepage": "https://github.com/Sophtli/cute-aesthetic",
   "publisher": "sophtli",
   "author": {
@@ -23,7 +23,11 @@
     "theme": "light"
   },
   "markdown": "github",
-  "keywords": ["pink", "green", "light"],
+  "keywords": [
+    "pink",
+    "green",
+    "light"
+  ],
   "engines": {
     "vscode": "^1.78.0"
   },
