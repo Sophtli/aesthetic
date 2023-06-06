@@ -3,7 +3,7 @@
   "displayName": "Cute Aesthetic",
   "description": "",
   "version": "1.0.0",
-  "homepage": "https://github.com/Sophtli/aesthetic",
+  "homepage": "https://github.com/Sophtli/cute-aesthetic",
   "publisher": "sophtli",
   "author": {
     "name": "Sophtli",
@@ -13,10 +13,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/Sophtli/aesthetic"
+    "url": "https://github.com/Sophtli/cute-aesthetic"
   },
   "bugs": {
-    "url": "https://github.com/Sophtli/aesthetic/issues"
+    "url": "https://github.com/Sophtli/cute-aesthetic/issues"
   },
   "galleryBanner": {
     "color": "#b55c80",
@@ -33,7 +33,7 @@
   "contributes": {
     "themes": [
       {
-        "label": "Aesthetic",
+        "label": "Cute Aesthetic",
         "uiTheme": "vs",
         "path": "./themes/aesthetic-color-theme.json"
       }

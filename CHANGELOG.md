@@ -7,9 +7,14 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [1.1.0] - 2023-06-06
+
+- Rename every instance of "aesthetic" to "cute-aesthetic" and "Aesthetic" to "Cute Aesthetic"
+
 ## [1.0.0] - 2023-06-06
 
 - Initial theme
 
 [unreleased]: https://github.com/Sophtli/aesthetic/compare/v1.0.0...HEAD
+[1.1.0]: https://github.com/Sophtli/aesthetic/compare/v1.0.0...v1.1.0
 [1.0.0]: https://github.com/Sophtli/aesthetic/releases/tag/v1.0.0
