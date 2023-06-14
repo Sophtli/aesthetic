@@ -10,6 +10,7 @@
     "email": "mail@sopht.li",
     "url": "https://sopht.li"
   },
+  "icon": "assets/icon.png",
   "license": "MIT",
   "repository": {
     "type": "git",
