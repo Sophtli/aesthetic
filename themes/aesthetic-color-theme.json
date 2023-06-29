@@ -2043,6 +2043,8 @@
     "merge.incomingContentBackground": "#DBECFF",
     "merge.commonHeaderBackground": "#BFBFBF",
     "merge.commonContentBackground": "#E5E5E5",
+    "editorInlayHint.foreground": "#7D284E",
+    "editorInlayHint.background": "#F3F3F3",
     "editorSuggestWidget.background": "#f3f3f3",
     "editorSuggestWidget.border": "#c8c8c8",
     "editorSuggestWidget.foreground": "#333333",
